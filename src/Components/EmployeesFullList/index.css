@@ -1,0 +1,13 @@
+.li-containers {
+  list-style-type: none;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  list-style-type: none;
+  padding-left: 30px;
+}
+.label-heading {
+  color: #ffffff;
+  font-size: 15px;
+  padding-left: 8px;
+}

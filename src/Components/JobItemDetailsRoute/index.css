@@ -1,0 +1,36 @@
+/* const updatedSearchData = {
+        jobDetails: [fetchedData.job_details].map(eachSearchList => ({
+          companyLogoUrl: eachSearchList.company_logo_url,
+          companyWebsiteUrl: eachSearchList.company_website_url,
+          employmentType: eachSearchList.employment_type,
+          id: eachSearchList.id,
+          jobDescription: eachSearchList.job_description,
+          location: eachSearchList.location,
+          packagePerAnnum: eachSearchList.package_per_annum,
+          rating: eachSearchList.rating,
+        })),
+        skills: fetchedData.job_details.skills.map(eachSkills => ({
+          imageUrl: eachSkills.image_url,
+          name: eachSkills.name,
+        })),
+        lifeAtCompany: [fetchedData.job_details.life_at_company].map(
+          eachLife => ({
+            description: eachLife.description,
+            imageUrl: eachLife.image_url,
+          }),
+        ),
+        similarJobs: fetchedData.similar_jobs.map(eachSimilarJobs => ({
+          companyLogoUrl: eachSimilarJobs.company_logo_url,
+          employmentType: eachSimilarJobs.employment_type,
+          id: eachSimilarJobs.id,
+          location: eachSimilarJobs.location,
+          rating: eachSimilarJobs.rating,
+          title: eachSimilarJobs.title,
+        })), */
+
+.big-container-of-job-details {
+  background-color: #121212;
+  background-size: cover;
+  height: 100vh;
+  max-width: 2000px;
+}

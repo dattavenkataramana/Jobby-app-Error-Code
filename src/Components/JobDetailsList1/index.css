@@ -1,0 +1,99 @@
+.li-search-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 20px;
+  background-color: #2c364c;
+  background-size: cover;
+  border-radius: 10px;
+  margin: 10px;
+}
+.title-star-image-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.image-size {
+  width: 70px;
+  padding-right: 10px;
+}
+.title-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 20px;
+  margin-top: 0px;
+}
+.title-logo-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.icon-setting-container {
+  display: flex;
+}
+.icon-taken {
+  color: #fbbf24;
+}
+.rating {
+  color: #ffffff;
+  font-size: 20px;
+  margin-top: -6px;
+  padding-left: 5px;
+}
+.location-job-icon-salary-containers {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.icon-of-location {
+  display: flex;
+  flex-direction: row;
+}
+.location {
+  color: #ffffff;
+}
+.para {
+  color: #f8fafc;
+  font-size: 15px;
+  margin-top: -3px;
+  padding-left: 5px;
+  padding-right: 10px;
+}
+.icon-of-mail {
+  display: flex;
+  flex-direction: row;
+}
+.mail {
+  color: #f8fafc;
+}
+.paras {
+  color: #f8fafc;
+  font-size: 15px;
+  padding-left: 5px;
+  margin-top: -3px;
+}
+.amount {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+.salary-count {
+  color: #f8fafc;
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: -3px;
+  padding-left: 100px;
+}
+.lines-container {
+  width: 100%;
+}
+.description {
+  color: #f8fafc;
+  font-size: 15px;
+}
+.description2 {
+  color: #f8fafc;
+  font-size: 15px;
+}

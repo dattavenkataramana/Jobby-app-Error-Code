@@ -1,0 +1,136 @@
+.container {
+  background-color: #000000;
+  background-size: cover;
+  height: 100%;
+}
+.line {
+  width: 40vh;
+  margin-left: 30px;
+}
+.profile-container-details-list {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.search-input-details {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.input-size {
+  width: 200px;
+  font-size: 14px;
+  height: 25px;
+  border: 2px solid #7e858e;
+  background-color: #2c364c;
+  color: #f1f5f9;
+  border-radius: 2px;
+  border-right: none;
+  margin-top: 5px;
+  padding: 8px 16px 8px 16px;
+  outline: none;
+}
+.icon-design {
+  color: #ffffff;
+}
+.icon-container {
+  background-color: #475569;
+  background-size: cover;
+  height: 25px;
+  width: 30px;
+  margin-top: 5px;
+  padding-left: 6px;
+  padding-top: 3px;
+  border: 2px solid #7e858e;
+  border-left: none;
+  border-top-right-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+.input-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 15px;
+  margin-top: 8px;
+}
+.search-input-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.button {
+  background-color: #64748b;
+  margin-bottom: -5px;
+  margin-left: -1px;
+  border: 2px solid #7e858e;
+  height: 25px;
+  border-left: none;
+  border-top-right-radius: 2px;
+  border-bottom-right-radius: 2px;
+  padding-top: 5px;
+}
+.employ-heading {
+  color: #ffffff;
+  font-size: 20px;
+  padding-left: 30px;
+}
+.div-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.ul-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  list-style-type: none;
+}
+.ul-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding-left: 5px;
+}
+.loader-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  height: 100vh;
+  margin-left: 120px;
+  margin-top: 80px;
+}
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.failure-image {
+  height: 40vh;
+  width: 50vh;
+  margin-top: 30px;
+  margin-left: 50px;
+}
+.heading-od-failure-view {
+  font-size: 30px;
+  color: white;
+}
+.para-of-found {
+  font-size: 10px;
+  color: white;
+}
+.salary-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.salary-heading {
+  color: #ffffff;
+  font-size: 20px;
+  padding-left: 30px;
+}

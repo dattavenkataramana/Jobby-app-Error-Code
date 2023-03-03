@@ -1,0 +1,35 @@
+/* ram */
+.home-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-lg-bg.png');
+  background-size: cover;
+  height: 100vh;
+}
+.matter-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-left: 60px;
+}
+.find-heading {
+  color: #ffffff;
+  font-size: 40px;
+}
+.description {
+  color: #cbd5e1;
+  font-size: 20px;
+}
+.button-of-jobs-search {
+  font-size: 14px;
+  font-weight: 400;
+  font-family: 'Roboto';
+  color: #ffffff;
+  border: none;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-radius: 6px;
+  background-color: #0967d2;
+  margin-top: 20px;
+  cursor: pointer;
+  outline: none;
+  width: 100px;
+}
